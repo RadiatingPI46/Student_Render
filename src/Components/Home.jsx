@@ -1,11 +1,3 @@
-// export default function Home(props){
-//     return(
-//         <div>
-//             {props.x}
-//         </div>
-//     )
-// }
-
 function Home(props){
     return (
         <div className="container" >
